@@ -69,7 +69,7 @@ Azospirillum	Azospirillum spp.	PGPB	N-fixing
 Allorhizobium	Allorhizobium sp.	PGPB	N-fixing
 Azoarcus	Azoarcus spp.	PGPB	N-fixing
 Azotobacter	Azotobacter salinestris	Bioremediation	Pesticide degrading
-Azotobacter	Azotobacter salinestris	BCA	BCA
+Acetobacter	Acetobacter aceti	BCA	BCA
 Azotobacter	Azotobacter salinestris	PGPB	N-fixing
 Bacillus	Bacillus spp.	PGPB	NA
 Pseudomonas	Pseudomonas spp.	PGPB	NA
@@ -83,19 +83,19 @@ Chromobacterium	Chromobacterium spp.	PGPB	NA
 Agrobacterium	Agrobacterium spp.	PGPB	NA
 Hyphomycrobium	Hyphomycrobium spp.	PGPB	NA
 Paenibacillus	Paenibacillus spp.	PGPB	NA
-Pseudomonas	Pseudomonas fluorescens PICF7	BCA	BCA
-Paenibacillus	Paenibacillus K165	BCA	BCA
-Serratia	Serratia plymuthica	BCA	BCA
-Serratia	Serratia marcescens	BCA	BCA
-Bacillus	Bacillus subtilis	BCA	BCA
-Pseudomonas	Pseudomonas FP22	BCA	BCA
-Pseudomonas	Pseudomonas FP23	BCA	BCA
-Pseudomonas	Pseudomonas FP30	BCA	BCA
-Pseudomonas	Pseudomonas FP35	BCA	BCA
+Achromobacter	Achromobacter sp.	BCA	BCA
+Actinoplanes	Actinoplanes spp.	BCA	BCA
+Agrobacterium	Agrobacterium radiobacter	BCA	BCA
+Alcaligenes	Alcaligenes sp.	BCA	BCA
+Arthrobacter	Arthrobacter sp.	BCA	BCA
+Azotobacter	Azotobacter salinestris	BCA	BCA
 Bacillus	Bacillus amyloliquefaciens	BCA	BCA
-Pseudomonas	Pseudomonas fluorescens	BCA	BCA
-Enterobacter	Enterobacter HA02	BCA	BCA
-Streptomyces	Streptomyces virginiae	BCA	BCA
+Bacillus	Bacillus brevis X23	BCA	BCA
+Bacillus	Bacillus cereus	BCA	BCA
+Bacillus	Bacillus chitinosporus	BCA	BCA
+Bacillus	Bacillus firmus	BCA	BCA
+Bacillus	Bacillus laterosporus	BCA	BCA
+Bacillus	Bacillus licheiformis	BCA	BCA
 Athrobacter	Athrobacter spp.	Bioremediation	Pesticide degrading
 Brevibacterium	Brevibacterium spp.	Bioremediation	Pesticide degrading
 Clavibacter	Clavibacter spp.	Bioremediation	Pesticide degrading
@@ -163,58 +163,56 @@ Arthrobacter	Arthrobacter sp.	Bioremediation	fungicide degrading
 Streptomyctes	Streptomyctes sp.	Bioremediation	fungicide degrading
 Pantoea	Pantoea sp.	Chemical impact	fungicide impact
 Pseudomonas	Pseudomonas sp.	Chemical impact	fungicide impact
-Pasteuria	Pasteuria penetrans	BCA	BCA
-Pasteuria	Pasteuria nishizawae	BCA	BCA
-Pasteuria	Pasteuria usage	BCA	BCA
-Bacillus	Bacillus cereus	BCA	BCA
-Bacillus	Bacillus licheiformis	BCA	BCA
-Bacillus	Bacillus firmus	BCA	BCA
 Bacillus	Bacillus methylotrophicus	BCA	BCA
-Bacillus	Bacillus chitinosporus	BCA	BCA
-Bacillus	Bacillus laterosporus	BCA	BCA
-Rhizobacterium	Rhizobacterium sp.	BCA	BCA
-Burkhloderia	Burkhloderia cepacia	BCA	BCA
-Agrobacterium	Agrobacterium radiobacter	BCA	BCA
-Lysobacter	Lysobacter sp.	BCA	BCA
-Pantoea	Pantoea agglomerans	BCA	BCA
-Burkholderia	Burkholderia cepacia	BCA	BCA
-Arthrobacter	Arthrobacter sp.	BCA	BCA
 Bacillus	Bacillus pumilus	BCA	BCA
+Bacillus	Bacillus subtilis	BCA	BCA
 Bacillus	Bacillus vallismortis	BCA	BCA
+Burkhloderia	Burkhloderia cepacia	BCA	BCA
+Burkhoderia	Burkhoderia sp.	BCA	NA
+Burkholderia	Burkholderia cepacia	BCA	BCA
+Comamonas	Comamonas acidovorans	BCA	BCA
+Enterobacter	Enterobacter HA02	BCA	BCA
+Enterobacter	Enterobacter sp.	BCA	BCA
+Lactobacillus	Lactobacillus brevis	BCA	BCA
+Lactobacillus	Lactobacillus plantarum	BCA	BCA
+Lysobacter	Lysobacter sp.	BCA	BCA
 Paenibacillus	Paenibacillus alvei	BCA	BCA
+Paenibacillus	Paenibacillus jamilae	BCA	BCA
+Paenibacillus	Paenibacillus K165	BCA	BCA
 Paenibacillus	Paenibacillus polymyxa	BCA	BCA
 Paenibacillus	Paenibacillus xylanilyticus	BCA	BCA
+Pantoea	Pantoea agglomerans	BCA	BCA
+Pasteuria	Pasteuria nishizawae	BCA	BCA
+Pasteuria	Pasteuria penetrans	BCA	BCA
+Pasteuria	Pasteuria usage	BCA	BCA
+Pseudomonas	Pseudomonas aeruginosa	BCA	BCA
+Pseudomonas	Pseudomonas chlororaphis	BCA	BCA
+Pseudomonas	Pseudomonas fluorescens	BCA	BCA
+Pseudomonas	Pseudomonas fluorescens PICF7	BCA	BCA
+Pseudomonas	Pseudomonas FP22	BCA	BCA
+Pseudomonas	Pseudomonas FP23	BCA	BCA
+Pseudomonas	Pseudomonas FP30	BCA	BCA
+Pseudomonas	Pseudomonas FP35	BCA	BCA
+Pseudomonas	Pseudomonas putida	BCA	BCA
+Rhizobacterium	Rhizobacterium sp.	BCA	BCA
+Rhizobium	Rhizobium sp.	BCA	BCA
+Serratia	Serratia marcescens	BCA	BCA
+Serratia	Serratia plymuthica	BCA	BCA
+Serratia	Serratia sp.	BCA	BCA
+Stenotrophomonas	Stenotrophomonas maltophilia	BCA	BCA
+Stenotrophomonas	Stenotrophomonas sp.	BCA	BCA
 Streptomyces	Streptomyces albidoflavus	BCA	BCA
 Streptomyces	Streptomyces cyaneofuscatus	BCA	BCA
 Streptomyces	Streptomyces diastatochromogenes	BCA	BCA
 Streptomyces	Streptomyces flavotricini	BCA	BCA
+Streptomyces	Streptomyces griseorubiginosus	BCA	BCA
 Streptomyces	Streptomyces kanamyceticu	BCA	BCA
 Streptomyces	Streptomyces lividans	BCA	BCA
+Delftia	Delftia tsuruhatensis	PGRB	PGRB
 Streptomyces	Streptomyces lydicus	BCA	BCA
 Streptomyces	Streptomyces rimosus	BCA	BCA
 Streptomyces	Streptomyces rochei	BCA	BCA
 Streptomyces	Streptomyces sp.	BCA	BCA
-Acetobacter	Acetobacter aceti	BCA	BCA
-Enterobacter	Enterobacter sp.	BCA	BCA
-Pseudomonas	Pseudomonas chlororaphis	BCA	BCA
-Pseudomonas	Pseudomonas putida	BCA	BCA
-Serratia	Serratia sp.	BCA	BCA
-Stenotrophomonas	Stenotrophomonas maltophilia	BCA	BCA
-Stenotrophomonas	Stenotrophomonas sp.	BCA	BCA
-Paenibacillus	Paenibacillus jamilae	BCA	BCA
-Lactobacillus	Lactobacillus brevis	BCA	BCA
-Achromobactrum	Achromobactrum sp	BCA	BCA
-Rhizobium	Rhizobium sp.	BCA	BCA
-Streptomyces	Streptomyces griseorubiginosus	BCA	BCA
-Herbaspirillum	Herbaspirillum spp.	BCA	BCA
-Erwinia	Erwinia chrysanthemi	BCA	BCA
-Actinoplanes	Actinoplanes spp.	BCA	BCA
-Comamonas	Comamonas acidovorans	BCA	BCA
-Delftia	Delftia tsuruhatensis	PGRB	PGRB
-Alcaligenes	Alcaligenes sp.	BCA	BCA
-Pseudomonas	Pseudomonas aeruginosa	BCA	BCA
-Bacillus	Bacillus brevis X23	BCA	BCA
-Lactobacillus	Lactobacillus plantarum	BCA	BCA
 Achromobacter	Achromobacter sp.	Bioremediation	polycyclic aromatic hydrocarbons toluene
 Flavobacterium	Flavobacterium sp.	Bioremediation	polycyclic aromatic hydrocarbons toluene
 Acinetobacter	Acinetobacter sp.	Bioremediation	polycyclic aromatic hydrocarbons toluene
@@ -259,5 +257,5 @@ Sporosarcina	Sporosarcina ginsengisoli	Bioremediation	Heavy metal
 Pseudomonas	Pseudomonas veronii	Bioremediation	Heavy metal
 Enterobacter	Enterobacter cloacae	Bioremediation	Heavy metal
 Bacillus	Bacillus subtilis	Bioremediation	Heavy metal
-Burkhoderia	Burkhoderia sp.	BCA	NA
+Streptomyces	Streptomyces virginiae	BCA	BCA
 Burkhoderia	Burkhoderia sp.	PGPB	NA
