@@ -1,0 +1,263 @@
+Genus	Species	Functions	Note1
+Azospirillum	Azospirillum lipferum	Stress	drought stress
+Pseudomonas	Pseudomonas putida	Stress	drought stress
+Bacillus	Bacillus amyloliquefaciens	Stress	drought stress
+Azospirillum	Azospirillum brasilense	Stress	drought stress
+Rhizobium	Rhizobium leguminosarum	Stress	drought stress
+Mesorhizobium	Mesorhizobium ciceri	Stress	drought stress
+Rhizobium	Rhizobium phaseoli	Stress	drought stress
+Bacillus	Bacillus thuringiensis	Stress	drought stress
+Azospirilum	Azospirilum Brasilense	Stress	drought stress
+Phyllobacterium	Phyllobacterium brassicacearum	Stress	drought stress
+Pseudomonas	Pseudomonas libanensis	Stress	drought stress
+Pseudomonas	Pseudomonas reactans	Stress	drought stress
+Sinorhizobium	Sinorhizobium medicae	Stress	drought stress
+Brachybacterium	Brachybacterium saurashtrense	Stress	Salinity stress
+Brevibacterium	Brevibacterium casei	Stress	Salinity stress
+Haererohalobacter	Haererohalobacter JG-11	Stress	Salinity stress
+Rhizobium	Rhizobium spp.	Stress	Salinity stress
+Pseudomonas	Pseudomonas spp.	Stress	Salinity stress
+Azospirillum	Azospirillum sp.	Stress	Salinity stress
+Serratia	Serratia sp.	Stress	Salinity stress
+Enterobacter	Enterobacter sp.	Stress	Salinity stress
+Hartmannibacter	Hartmannibacter diazotrophicus	Stress	Salinity stress
+Pseudomonas	Pseudomonas putida	Stress	Salinity stress
+Bacillus	Bacillus amyloliquefaciens	Stress	Salinity stress
+Pseudomonas	Pseudomonas pseudoalcaligenes	Stress	Salinity stress
+Bacillus	Bacillus pumilus	Stress	Salinity stress
+Acinetobacter	Acinetobacter spp.	Stress	Salinity stress
+Bacllus	Bacllus thuringiensis	Bioremediation	Heavy metal
+Thiobacillus	Thiobacillus thiooxidans	Bioremediation	Heavy metal
+Pseudomonas	Pseudomonas putida	Bioremediation	Heavy metal
+Pseudomonas	Pseudomonas spp.	Bioremediation	Heavy metal
+Bacillus	Bacillus pumilus	Bioremediation	Heavy metal
+Achromobacter	Achromobacter sp.	Bioremediation	Heavy metal
+Stenotrophomonas	Stenotrophomonas sp.	Bioremediation	Heavy metal
+Bradyrhizobium	Bradyrhizobium japonicum	Bioremediation	Heavy metal
+Enterobacter	Enterobacter sp.	Bioremediation	Heavy metal
+Klebsiella	Klebsiella sp.	Bioremediation	Heavy metal
+Pseudomonas	Pseudomonas brassicacearum	Bioremediation	Heavy metal
+Rhizobium	Rhizobium leguminosarum	Bioremediation	Heavy metal
+Glomus	Glomus etunicatu	Bioremediation	Heavy metal
+Glomus	Glomus fasciculatum	Bioremediation	Heavy metal
+Claroideoglomus	Claroideoglomus claroideum	Bioremediation	Heavy metal
+Funneliformis	Funneliformis mosseae	Bioremediation	Heavy metal
+Pseudomonas	Pseudomonas aeruginosa	Stress	Biotic stress
+Paenibacillus	Paenibacillus sp.	Stress	Biotic stress
+Bacillus	Bacillus subtilis	Stress	Biotic stress
+Pseudomonas	Pseudomonas Fluorescens	Stress	Biotic stress
+Azotobacter	Azotobacter chroococcum	Stress	Biotic stress
+Pseudomonas	Pseudomonas putida	Stress	Biotic stress
+Bacillus	Bacillus amyloliquefaciens	Stress	Biotic stress
+Bacillus	Bacillus sp.	Stress	Biotic stress
+Brevibacterium	Brevibacterium iodinum	Stress	Biotic stress
+Pseudomonas	Pseudomonas syringae	ice formation	ice formation
+Erwinia	Erwinia herbicola	ice formation	ice formation
+Pseudomonas	Pseudomonas spp.	ice formation	ice formation
+Erwinia	Erwinia stewartii	ice formation	ice formation
+Frankia	Frankia spp.	PGPB	N-fixing
+Gluconacetobacter	Gluconacetobacter diazotrophicus	PGPB	N-fixing
+Herbaspirillum	Herbaspirillum seropedicae	PGPB	N-fixing
+Herbaspirillum	Herbaspirillum rubrisubalbicans	PGPB	N-fixing
+Burkholderia	Burkholderia silvatlantica	PGPB	N-fixing
+Parasponia	Parasponia spp.	PGPB	N-fixing
+Rhizobium	Rhizobium spp.	PGPB	N-fixing
+Bradyrhizobium	Bradyrhizobium spp.	PGPB	N-fixing
+Mesorhizobium	Mesorhizobium spp.	PGPB	N-fixing
+Sinorhizobium	Sinorhizobium spp.	PGPB	N-fixing
+Azospirillum	Azospirillum spp.	PGPB	N-fixing
+Allorhizobium	Allorhizobium sp.	PGPB	N-fixing
+Azoarcus	Azoarcus spp.	PGPB	N-fixing
+Azotobacter	Azotobacter salinestris	Bioremediation	Pesticide degrading
+Azotobacter	Azotobacter salinestris	BCA	BCA
+Azotobacter	Azotobacter salinestris	PGPB	N-fixing
+Bacillus	Bacillus spp.	PGPB	NA
+Pseudomonas	Pseudomonas spp.	PGPB	NA
+Erwinia	Erwinia spp.	PGPB	NA
+Caulobacter	Caulobacter spp.	PGPB	NA
+Serratia	Serratia spp.	PGPB	NA
+Arthrobacter	Arthrobacter spp.	PGPB	NA
+Micrococcus	Micrococcus spp.	PGPB	NA
+Flavobacterium	Flavobacterium spp.	PGPB	NA
+Chromobacterium	Chromobacterium spp.	PGPB	NA
+Agrobacterium	Agrobacterium spp.	PGPB	NA
+Hyphomycrobium	Hyphomycrobium spp.	PGPB	NA
+Paenibacillus	Paenibacillus spp.	PGPB	NA
+Pseudomonas	Pseudomonas fluorescens PICF7	BCA	BCA
+Paenibacillus	Paenibacillus K165	BCA	BCA
+Serratia	Serratia plymuthica	BCA	BCA
+Serratia	Serratia marcescens	BCA	BCA
+Bacillus	Bacillus subtilis	BCA	BCA
+Pseudomonas	Pseudomonas FP22	BCA	BCA
+Pseudomonas	Pseudomonas FP23	BCA	BCA
+Pseudomonas	Pseudomonas FP30	BCA	BCA
+Pseudomonas	Pseudomonas FP35	BCA	BCA
+Bacillus	Bacillus amyloliquefaciens	BCA	BCA
+Pseudomonas	Pseudomonas fluorescens	BCA	BCA
+Enterobacter	Enterobacter HA02	BCA	BCA
+Streptomyces	Streptomyces virginiae	BCA	BCA
+Athrobacter	Athrobacter spp.	Bioremediation	Pesticide degrading
+Brevibacterium	Brevibacterium spp.	Bioremediation	Pesticide degrading
+Clavibacter	Clavibacter spp.	Bioremediation	Pesticide degrading
+Corynebacterium	Corynebacterium spp.	Bioremediation	Pesticide degrading
+Mycobacterium	Mycobacterium sp.	Bioremediation	Pesticide degrading
+Nocardia	Nocardia spp.	Bioremediation	Pesticide degrading
+Rhodococcus	Rhodococcus spp.	Bioremediation	Pesticide degrading
+Micromonospora	Micromonospora spp.	Bioremediation	Pesticide degrading
+Nocardioides	Nocardioides sp.	Bioremediation	Pesticide degrading
+Streptomyces	Streptomyces sp.	Bioremediation	Pesticide degrading
+Bacillus	Bacillus flexus	Bioremediation	fungicide degrading
+Bacillus	Bacillus amyloliquefaciens	Bioremediation	fungicide degrading
+Pseudomonas	Pseudomonas spp.	Bioremediation	fungicide degrading
+Klebsiella	Klebsiella sp.	Bioremediation	fungicide degrading
+Stenotrophomonas	Stenotrophomonas maltophilia	Bioremediation	fungicide degrading
+Arthrobacter	Arthrobacter oxydans	Bioremediation	fungicide degrading
+Rhodanobacter	Rhodanobacter sp.	Bioremediation	fungicide degrading
+Bacillus	Bacillus cereus	Bioremediation	fungicide degrading
+Bacillus	Bacillus weihenstephanensis	Bioremediation	fungicide degrading
+Bacillus	Bacillus sp.	Bioremediation	fungicide degrading
+Bacillus	Bacillus megaterium	Bioremediation	fungicide degrading
+Shinella	Shinella sp.	Bioremediation	fungicide degrading
+Sphingomonas	Sphingomonas sp.	Bioremediation	fungicide degrading
+Aeromonas	Aeromonas hydrophila	Bioremediation	fungicide degrading
+Azospirillum	Azospirillum brasilense	Bioremediation	fungicide degrading
+Bacillus	Bacillus pumilus	Bioremediation	fungicide degrading
+Bacillus	Bacillus subtilis	Bioremediation	fungicide degrading
+Bipolaris	Bipolaris tetramera	Bioremediation	fungicide degrading
+Brevibacillus	Brevibacillus borstelensis	Bioremediation	fungicide degrading
+Burkholderia	Burkholderia cepacia	Bioremediation	fungicide degrading
+Nocardioides	Nocardioides soli	Bioremediation	fungicide degrading
+Nocardioides	Nocardioides sp.	Bioremediation	fungicide degrading
+Pseudomonas	Pseudomonas fluorescens	Bioremediation	fungicide degrading
+Pseudomonas	Pseudomonas luteola	Bioremediation	fungicide degrading
+Pseudomonas	Pseudomonas sp.	Bioremediation	fungicide degrading
+Rhodococcus	Rhodococcus erythropolis	Bioremediation	fungicide degrading
+Rhodococcus	Rhodococcus jialingiae	Bioremediation	fungicide degrading
+Rhodococcus	Rhodococcus qingshengii	Bioremediation	fungicide degrading
+Rhodococcus	Rhodococcus sp.	Bioremediation	fungicide degrading
+Sphingomonas	Sphingomonas paucimobilis	Bioremediation	fungicide degrading
+Streptomyces	Streptomyces albogriseolus	Bioremediation	fungicide degrading
+Ralstonia	Ralstonia sp.	Bioremediation	fungicide degrading
+Flavobacterium	Flavobacterium sp.	Bioremediation	fungicide degrading
+Pseudomonas	Pseudomonas diminuta	Bioremediation	fungicide degrading
+Agrobacterium	Agrobacterium radiobacter	Bioremediation	fungicide degrading
+Alteromonas	Alteromonas haloplanktis	Bioremediation	fungicide degrading
+Enterobacter	Enterobacter sp.	Bioremediation	fungicide degrading
+Acinetobacter	Acinetobacter radioresistens	Bioremediation	fungicide degrading
+Pseudomonas	Pseudomonas frederiksbergensis	Bioremediation	fungicide degrading
+Serratia	Serratia liquefaciens	Bioremediation	fungicide degrading
+Serratia	Serratia marcescens	Bioremediation	fungicide degrading
+Burkholderia	Burkholderia gladioli	Bioremediation	fungicide degrading
+Stenotrophomonas	Stenotrophomonas sp.	Bioremediation	fungicide degrading
+Lysinibacillus	Lysinibacillus fusiformis	Bioremediation	fungicide degrading
+Massilia	Massilia timonae	Bioremediation	fungicide degrading
+Naxibacter	Naxibacter sp.	Bioremediation	fungicide degrading
+Pseudomonas	Pseudomonas reactans	Bioremediation	fungicide degrading
+Pseudomonas	Pseudomonas putida	Bioremediation	fungicide degrading
+Heliothrix	Heliothrix oregonensis	Bioremediation	fungicide degrading
+Acidobacterium	Acidobacterium capsulatum	Bioremediation	fungicide degrading
+Legionella	Legionella sainthelensi	Bioremediation	fungicide degrading
+Mycobacterium	Mycobacterium xenopi	Bioremediation	fungicide degrading
+Mycobacterium	Mycobacterium sp.	Bioremediation	fungicide degrading
+Arthrobacter	Arthrobacter sp.	Bioremediation	fungicide degrading
+Streptomyctes	Streptomyctes sp.	Bioremediation	fungicide degrading
+Pantoea	Pantoea sp.	Chemical impact	fungicide impact
+Pseudomonas	Pseudomonas sp.	Chemical impact	fungicide impact
+Pasteuria	Pasteuria penetrans	BCA	BCA
+Pasteuria	Pasteuria nishizawae	BCA	BCA
+Pasteuria	Pasteuria usage	BCA	BCA
+Bacillus	Bacillus cereus	BCA	BCA
+Bacillus	Bacillus licheiformis	BCA	BCA
+Bacillus	Bacillus firmus	BCA	BCA
+Bacillus	Bacillus methylotrophicus	BCA	BCA
+Bacillus	Bacillus chitinosporus	BCA	BCA
+Bacillus	Bacillus laterosporus	BCA	BCA
+Rhizobacterium	Rhizobacterium sp.	BCA	BCA
+Burkhloderia	Burkhloderia cepacia	BCA	BCA
+Agrobacterium	Agrobacterium radiobacter	BCA	BCA
+Lysobacter	Lysobacter sp.	BCA	BCA
+Pantoea	Pantoea agglomerans	BCA	BCA
+Burkholderia	Burkholderia cepacia	BCA	BCA
+Arthrobacter	Arthrobacter sp.	BCA	BCA
+Bacillus	Bacillus pumilus	BCA	BCA
+Bacillus	Bacillus vallismortis	BCA	BCA
+Paenibacillus	Paenibacillus alvei	BCA	BCA
+Paenibacillus	Paenibacillus polymyxa	BCA	BCA
+Paenibacillus	Paenibacillus xylanilyticus	BCA	BCA
+Streptomyces	Streptomyces albidoflavus	BCA	BCA
+Streptomyces	Streptomyces cyaneofuscatus	BCA	BCA
+Streptomyces	Streptomyces diastatochromogenes	BCA	BCA
+Streptomyces	Streptomyces flavotricini	BCA	BCA
+Streptomyces	Streptomyces kanamyceticu	BCA	BCA
+Streptomyces	Streptomyces lividans	BCA	BCA
+Streptomyces	Streptomyces lydicus	BCA	BCA
+Streptomyces	Streptomyces rimosus	BCA	BCA
+Streptomyces	Streptomyces rochei	BCA	BCA
+Streptomyces	Streptomyces sp.	BCA	BCA
+Acetobacter	Acetobacter aceti	BCA	BCA
+Enterobacter	Enterobacter sp.	BCA	BCA
+Pseudomonas	Pseudomonas chlororaphis	BCA	BCA
+Pseudomonas	Pseudomonas putida	BCA	BCA
+Serratia	Serratia sp.	BCA	BCA
+Stenotrophomonas	Stenotrophomonas maltophilia	BCA	BCA
+Stenotrophomonas	Stenotrophomonas sp.	BCA	BCA
+Paenibacillus	Paenibacillus jamilae	BCA	BCA
+Lactobacillus	Lactobacillus brevis	BCA	BCA
+Achromobactrum	Achromobactrum sp	BCA	BCA
+Rhizobium	Rhizobium sp.	BCA	BCA
+Streptomyces	Streptomyces griseorubiginosus	BCA	BCA
+Herbaspirillum	Herbaspirillum spp.	BCA	BCA
+Erwinia	Erwinia chrysanthemi	BCA	BCA
+Actinoplanes	Actinoplanes spp.	BCA	BCA
+Comamonas	Comamonas acidovorans	BCA	BCA
+Delftia	Delftia tsuruhatensis	PGRB	PGRB
+Alcaligenes	Alcaligenes sp.	BCA	BCA
+Pseudomonas	Pseudomonas aeruginosa	BCA	BCA
+Bacillus	Bacillus brevis X23	BCA	BCA
+Lactobacillus	Lactobacillus plantarum	BCA	BCA
+Achromobacter	Achromobacter sp.	Bioremediation	polycyclic aromatic hydrocarbons toluene
+Flavobacterium	Flavobacterium sp.	Bioremediation	polycyclic aromatic hydrocarbons toluene
+Acinetobacter	Acinetobacter sp.	Bioremediation	polycyclic aromatic hydrocarbons toluene
+Pseudomonas	Pseudomonas putida	Bioremediation	Monocyclic aromatic hydrocarbons
+Alcaligenes	Alcaligenes odorans	Bioremediation	phenol
+Bacillus	Bacillus subtilis	Bioremediation	phenol
+Corynebacterium	Corynebacterium propinquum	Bioremediation	phenol
+Pseudomonas	Pseudomonas aeruginosa	Bioremediation	phenol
+Bacillus	Bacillus licheniformis	Bioremediation	naphtalene
+Acinetobacter	Acinetobacter sp.	Bioremediation	aromatic hydrocarbons
+Pseudomonas	Pseudomonas sp.	Bioremediation	aromatic hydrocarbons
+Ralstonia	Ralstonia sp.	Bioremediation	aromatic hydrocarbons
+Microbacterium	Microbacterium sp.	Bioremediation	aromatic hydrocarbons
+Dietzia	Dietzia sp.	Bioremediation	Aliphatics
+Pseudomonas	Pseudomonas sp.	Bioremediation	Aliphatics
+Oleispira	Oleispira antarctica	Bioremediation	Aliphatics
+Rhodococcus	Rhodococcus ruber	Bioremediation	Aliphatics
+Geobacillus	Geobacillus thermodenitrifican	Bioremediation	Aliphatics
+Rhodococcus	Rhodococcus sp.	Bioremediation	Aliphatics
+Alcanivorax	Alcanivorax sp.	Bioremediation	Aliphatics
+Gordonia	Gordonia sihwensis	Bioremediation	Aliphatics
+Achromobacter	Achromobacter xylosoxidans	Bioremediation	aromatic hydrocarbons
+Aeribacillus	Aeribacillus pallidus	Bioremediation	aromatic hydrocarbons
+Mycobacterium	Mycobacterium cosmeticum	Bioremediation	aromatic hydrocarbons
+Pseudomonas	Pseudomonas aeruginosa	Bioremediation	aromatic hydrocarbons
+Cycloclasticus	Cycloclasticus sp.	Bioremediation	aromatic hydrocarbons
+Neptunomonas	Neptunomonas naphthovoran	Bioremediation	aromatic hydrocarbons
+Bacillus	Bacillus licheniformis	Bioremediation	aromatic hydrocarbons
+Bacillus	Bacillus Mojavensis	Bioremediation	aromatic hydrocarbons
+Spingomonas	Spingomonas sp.	Bioremediation	aromatic hydrocarbons
+Pseudomonas	Pseudomonas sp.	Bioremediation	Resins
+Pseudmonas	Pseudmonas sp.	Bioremediation	Asphaltenes
+Bacillus	Bacillus sp.	Bioremediation	Asphaltenes
+Citrobacter	Citrobacter sp.	Bioremediation	Asphaltenes
+Enterobacter	Enterobacter sp.	Bioremediation	Asphaltenes
+Staphylococcus	Staphylococcus sp.	Bioremediation	Asphaltenes
+Lysinibacillus	Lysinibacillus sp.	Bioremediation	Asphaltenes
+Pseudomonas	Pseudomonas sp.	Bioremediation	Asphaltenes
+Bacillus	Bacillus cereus	Bioremediation	Heavy metal
+Kocuria	Kocuria flava	Bioremediation	Heavy metal
+Sporosarcina	Sporosarcina ginsengisoli	Bioremediation	Heavy metal
+Pseudomonas	Pseudomonas veronii	Bioremediation	Heavy metal
+Enterobacter	Enterobacter cloacae	Bioremediation	Heavy metal
+Bacillus	Bacillus subtilis	Bioremediation	Heavy metal
+Burkhoderia	Burkhoderia sp.	BCA	NA
+Burkhoderia	Burkhoderia sp.	PGPB	NA
